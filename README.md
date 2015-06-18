@@ -10,12 +10,13 @@ Installation
 
 Requirements:
 - Java 6 or newer (JDK, http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- Apache Ant 
 
 Java3D and JOGL/JOAL jars, including native libs for Linux (i586/64bit), Windows (i586/64bit) and Mac OS (universal) already included in this repository, no need to install it.
 
 Clone repository and initialize submodules:
 ```
-git clone https://github.com/DrTon/jMAVSim
+git clone https://github.com/PX4/jMAVSim
 git submodule init
 git submodule update
 ```
